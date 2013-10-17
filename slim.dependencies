@@ -1,11 +1,11 @@
 [
     {
-        "repository": "SlimRoms/device_samsung_galaxys2-common",
+        "repository": "SlimSaber/device_samsung_galaxys2-common",
         "target_path": "device/samsung/galaxys2-common",
         "branch": "jb4.3"
     },
     {
-        "repository": "SlimRoms/kernel_samsung_smdk4412",
+        "repository": "SlimSaber/kernel_samsung_smdk4412",
         "target_path": "kernel/samsung/smdk4412",
         "branch": "jb4.3"
     },
