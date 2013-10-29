@@ -10,7 +10,7 @@
         "branch": "jb4.3"
     },
     {
-        "repository": "SlimRoms/hardware_samsung",
+        "repository": "SlimSaber/hardware_samsung",
         "target_path": "hardware/samsung",
         "branch": "jb4.3"
     },
